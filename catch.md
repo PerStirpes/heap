@@ -1,4 +1,6 @@
 
+### Analytics Shouldn’t Slow You Down
+Optimize your entire customer journey from Attribution to Exploration to Conversion. No code required.
 Visualize Trends That Matter
 
 ### Imagine Retroactive Questions
@@ -184,3 +186,8 @@ Identify drop off in your checkout funnel. Get as granular as form change to for
 Understand how different behaviors drive conversions and LTV. Create segments of users by filtering for their real time behavior and historical actions. Combine user activity with user attributes like lifetime value, first touch attribution, and more to create complex personas in your analysis.
 * Heap SQL
 Our retroactive, managed ETL process means that your data teams have all they have all the data in a clean, easy to use schema. That means your best minds are discovering new insights, not building pipelines and munging data.
+
+
+Complete DatasetHeap empowers companies to have all the data at their fingertips. With strict release cycles, it’s hard to ensure a tracking plan is all-inclusive. Heap’s autocapture means that any questions that might be asked has an answer backed in data.
+Conversion Rate OptimizationIdentify dropoff, decrease friction, and improve your site's conversion rate. Heap automatically captures experimentation variation data, device type, ad campaigns, and more so you can determine the best ways to optimize product changes and adspend.
+Actionable MetricsDetermine the actions that great customers take and focus your marketing and product strategies around driving the right behavior.
