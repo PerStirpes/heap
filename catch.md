@@ -217,10 +217,11 @@ Pinpoint problems from discovery, to engagement, to adoption. Understand how use
 Determine the actions that great customers take and focus your marketing, product, and account management strategies around driving good behavior.
 
 * Codeless Tracking
-Autocapture every tap, click, swipe, field change and pageview in your web or mobile app without writing a single line of code, or filing a single ticket. Heap’s capture everything philosophy means that you will always have a complete and retroactive data set.
+  Autocapture every tap, click, swipe, field change and pageview in your web or mobile app without writing a single line of code, or filing a single ticket. Heap’s capture everything philosophy means that you will always have a complete and retroactive data set.
 * Customer Life Cycle
-From acquisition, to adoption, to retention we have the data and the tools you need to improve every part of the customer’s journey. Ensure your customers discover and engage with everything you have to offer, and remove friction points through out their experience.
+  From acquisition, to adoption, to retention we have the data and the tools you need to improve every part of the customer’s journey. Ensure your customers discover and engage with everything you have to offer, and remove friction points through out their experience.
 * Dynamic Cohorting
+
 Understand how different cohorts of users experience your product. Create segments of users by filtering for their real time behavior and historical actions. Combine user activity with user attributes like vertical, contract value, first touch attribution, and more to create complex personas in your analysis.
 * Heap SQL
-Our retroactive, managed ETL process means that your data teams have all they have all the data in a clean, easy to use schema. That means your best minds are discovering new insights, not building pipelines and munging data.
+  Our retroactive, managed ETL process means that your data teams have all they have all the data in a clean, easy to use schema. That means your best minds are discovering new insights, not building pipelines and munging data.
