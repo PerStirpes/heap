@@ -30,6 +30,8 @@ Measure retention across user segments
 # 2. 
 > When I view a funnel of people who view our app homepage and click “send email”, I see that roughly 1,500 users in the past month clicked the send email button. However, when I go to the Events tab and view the latter event by itself, it tells me there has been over 2,000 occurrences in the past week. Given that it's impossible to click the send email button without viewing it on the console homepage, could you please explain to me why the funnel over the past month shows that only 1500 people have clicked button over the past month, but the event tab shows that there's been 2000+ occurrences of the event over the past week?
 
+[Funnel](https://docs.heapanalytics.com/docs/funnel)
+
 ### Increase Conversion Rate
 Funnels lets you see every action before a conversion: identify drop-off, decrease friction, and improve your site's conversion rate.
 
@@ -39,6 +41,8 @@ Measure the effectiveness of your A/B tests – automatically capture experiment
 
 # 3. 
 > I was doing some analysis recently on our sign up conversion (see attached image) but I’m getting push back from my boss that these numbers must be wrong. According to this graph, I’m seeing that we only had 2 users come in from AdRoll during this time period but I’m being told that AdRoll is saying there were at least 10x that many users during this time period. We’re in the process of re-evaluating our retargeting spend in advance of our board meeting and I’d really like to know what’s going on and make sure other people can trust Heap. Is there something that I might not be thinking about?
+
+[Funnel](https://docs.heapanalytics.com/docs/funnel)
 
 ### Complete & Retroactive Dataset
 Autocapture ensures your underlying dataset is complete. Every piece of user interaction is retroactive.
