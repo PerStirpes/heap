@@ -224,3 +224,42 @@ Determine the actions that great customers take and focus your marketing, produc
 Understand how different cohorts of users experience your product. Create segments of users by filtering for their real time behavior and historical actions. Combine user activity with user attributes like vertical, contract value, first touch attribution, and more to create complex personas in your analysis.
 * Heap SQL
   Our retroactive, managed ETL process means that your data teams have all they have all the data in a clean, easy to use schema. That means your best minds are discovering new insights, not building pipelines and munging data.
+-----
+
+## VIRTUAL EVENTS
+The New Standard in Tracking Customer Data
+Hard-coded events should be the exception, not the norm. Virtual Events retroactively name and manage any customer interaction without touching your codebase.
+
+
+
+## Decouple Analytics from Code
+Accelerate time to insight without waiting for deploy cycles. Virtual Events have no implementation overhead and are completely retroactive, so you have immediate access to data when new questions arise. Implement and iterate 10x faster.
+
+
+## Make Changes Without Breaking Your Tracking Code
+Virtual Events are modifiable, deletable, and extendable without altering your codebase, throwing out “old” data, or munging data downstream.
+
+
+## Trust Your Data
+How Virtual Events are defined automatically propagates across your entire system. Always have access to what an event means, who defined it, and when it was last updated. Never dig through your site’s HTML or reference an outdated tracking plan again.
+
+## Introducing Virtual Events
+Virtual Events are the foundation for next-generation customer data infrastructure:
+
+## Need new events to answer questions? Retroactively define Virtual Events.
+Site changes shouldn’t mean broken data. Merge old and new events so your data keeps up with your company’s growth.
+Need a View Page and View Signup Page event? You shouldn’t need two api calls for the same data point.
+
+## Easy-to-Use
+Our virtualization tools allow anyone to get insights in minutes:
+
+## Point-and-Click Editor: Event Visualizer allows you to codelessly create new Virtual Events
+Retroactive Definitions: Virtual Events apply across the entire dataset so new questions can be answered immediately
+Virtual Properties: Combine different property values and renamed properties to create updated key-value pairs
+
+## Improve Operational Efficiency
+Ensure your company is operating off of shared context:
+
+### Flexible: Easily modify, merge, or create definitions as your KPIs change and your business evolves
+### Controlled: Collaboration is easy – any update applies retroactively, across the entire platform so you can operate with a trusted, unified set of definitions. Spend time talking about decisions, not who has the correct dataset.
+### Organized: Our living event dictionary keeps your Virtual Events, cohorts, and properties organized and complete with business context
