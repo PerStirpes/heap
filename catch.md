@@ -128,20 +128,19 @@ Attribution models typically only account for referring sources, they don't give
 ## Enrichment
 Automatically enrich users with a sync with your CRM. Make sure your user's attributes always reflect your business goals.
 
+1. CRM Data
 
-CRM Data
-
-Enrichment Data
+2. Enrichment Data
 
 ## Warehouses
 The industry's only retroactive warehouse. Save your data team's time with a fully managed ETL process that syncs all your user data to your data warehouse.
 
+1. Managed ETL
 
-Managed ETL
+2. Retroactive Data
 
-Retroactive Data
+3. Clean Schema
 
-Clean Schema
 ## Every Package includes what Heap does Best
 * Autocapture 
 No more outdated tracking plans, tracking code, or waiting for data to trickle in. Heap auto-captures every user interaction and lets you define on the fly, changing tedious and fragile systems into agile insights.
@@ -158,8 +157,8 @@ Legacy analytics systems relied on outdated database technology that required ma
 **What is a session?**
 A session is a period of activity from a single user in your app or website. It can include many pageviews or events. For web, a session ends after 30 minutes of inactivity from the user. For iOS, a session ends after your app has entered the background.
 
-What happens if I exceed the limit for my plan?
+**What happens if I exceed the limit for my plan?**
 Don’t worry – we will not drop or throttle your data! Once you exceed your plan’s monthly limit, you’ll receive an email asking you to upgrade to the appropriate tier. You’ll need to do this before you can view your data again.
 
-How can I get more than 5,000 free sessions per month?
+**How can I get more than 5,000 free sessions per month?**
 You can get 50,000 sessions per month for free! Just add the Heap badge to your website.
