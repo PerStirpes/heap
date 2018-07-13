@@ -148,15 +148,20 @@ The industry's only retroactive warehouse. Save your data team's time with a ful
 
 ## Every Package includes what Heap does Best
 * Autocapture 
-No more outdated tracking plans, tracking code, or waiting for data to trickle in. Heap auto-captures every user interaction and lets you define on the fly, changing tedious and fragile systems into agile insights.
+
+    No more outdated tracking plans, tracking code, or waiting for data to trickle in. Heap auto-captures every user interaction and lets you define on the fly, changing tedious and fragile systems into agile insights.
 
 * Virtual Events
-Virtual Events allow you to retroactively name and manage user interactions without altering any code. Flexibly merge, delete, and rename event without altering the underlying data.
+
+    Virtual Events allow you to retroactively name and manage user interactions without altering any code. Flexibly merge, delete, and rename event without altering the underlying data.
 
 * Real-time Insights
-Legacy analytics systems relied on outdated database technology that required massive batched updates that could take days to update. Heaps data updates in real time, cutting the feedback loop to nothing.
 
-* Behavioral AnalyticsUnderstand your users. Iterate quickly as you dig deep into customer behavior – analyze any event, segment, or property.
+    Legacy analytics systems relied on outdated database technology that required massive batched updates that could take days to update. Heaps data updates in real time, cutting the feedback loop to nothing.
+
+* Behavioral Analytics
+
+    Understand your users. Iterate quickly as you dig deep into customer behavior – analyze any event, segment, or property.
 
 #### FAQ
 **What is a session?**
@@ -171,58 +176,87 @@ You can get 50,000 sessions per month for free! Just add the Heap badge to your 
 
 **Why eCommerce Companies Choose Heap**
 * Advanced Attribution
-Find the channels with the highest return. Rather than focusing on first or last touch, Heap captures every touch to help companies understand which channels drive conversions, higher order values, and repeat customers.
+    
+    Find the channels with the highest return. Rather than focusing on first or last touch, Heap captures every touch to help companies understand which channels drive conversions, higher order values, and repeat customers.
 
 * Conversion Rate Optimization
-Identify dropoff, decrease friction, and improve your site's conversion rate. Heap automatically captures experimentation variation data, device type, ad campaigns, and more so you can determine the best ways to optimize product changes and ad spend.
+
+    Identify dropoff, decrease friction, and improve your site's conversion rate. Heap automatically captures experimentation variation data, device type, ad campaigns, and more so you can determine the best ways to optimize product changes and ad spend.
 
 * Create Brand Loyalty 
-Optimize for LTV, not just acquisition. Determine the actions that great customers take and focus your marketing and product strategies around driving good behavior.
+
+    Optimize for LTV, not just acquisition. Determine the actions that great customers take and focus your marketing and product strategies around driving good behavior.
 
 * Codeless Tagging
-Autocapture every tap, click, swipe, field change and pageview in your web or mobile app without writing a single line of code, or filing a single ticket. Heap’s capture everything philosophy means that you will always have a complete and retroactive data set.
+
+    Autocapture every tap, click, swipe, field change and pageview in your web or mobile app without writing a single line of code, or filing a single ticket. Heap’s capture everything philosophy means that you will always have a complete and retroactive data set.
 
 * Dynamic Funnels
-Identify drop off in your checkout funnel. Get as granular as form change to form change to ensure your flow is seamless. Slice your funnel by device, customer cohort, and attribution channel so you can improve spend and encourage the right behaviors.
+
+    Identify drop off in your checkout funnel. Get as granular as form change to form change to ensure your flow is seamless. Slice your funnel by device, customer cohort, and attribution channel so you can improve spend and encourage the right behaviors.
 
 * Behavioral Cohorting
-Understand how different behaviors drive conversions and LTV. Create segments of users by filtering for their real time behavior and historical actions. Combine user activity with user attributes like lifetime value, first touch attribution, and more to create complex personas in your analysis.
+
+    Understand how different behaviors drive conversions and LTV. Create segments of users by filtering for their real time behavior and historical actions. Combine user activity with user attributes like lifetime value, first touch attribution, and more to create complex personas in your analysis.
+
 * Heap SQL
-Our retroactive, managed ETL process means that your data teams have all they have all the data in a clean, easy to use schema. That means your best minds are discovering new insights, not building pipelines and munging data.
+
+    Our retroactive, managed ETL process means that your data teams have all they have all the data in a clean, easy to use schema. That means your best minds are discovering new insights, not building pipelines and munging data.
 
 
-Complete DatasetHeap empowers companies to have all the data at their fingertips. With strict release cycles, it’s hard to ensure a tracking plan is all-inclusive. Heap’s autocapture means that any questions that might be asked has an answer backed in data.
+Complete Dataset
+    
+    Heap empowers companies to have all the data at their fingertips. With strict release cycles, it’s hard to ensure a tracking plan is all-inclusive. Heap’s autocapture means that any questions that might be asked has an answer backed in data.
 
 * Conversion Rate Optimization 
-Identify dropoff, decrease friction, and improve your site's conversion rate. Heap automatically captures experimentation variation data, device type, ad campaigns, and more so you can determine the best ways to optimize product changes and adspend.
+
+    Identify dropoff, decrease friction, and improve your site's conversion rate. Heap automatically captures experimentation variation data, device type, ad campaigns, and more so you can determine the best ways to optimize product changes and adspend.
+    
 * Actionable Metrics 
-Determine the actions that great customers take and focus your marketing and product strategies around driving the right behavior.
+    
+    Determine the actions that great customers take and focus your marketing and product strategies around driving the right behavior.
 
 
 * Codeless Tracking 
-Autocapture every tap, click, swipe, field change and pageview in your web or mobile app without writing a single line of code, or filing a single ticket. Heap’s capture everything philosophy means that you will always have a complete and retroactive data set.
+    
+    Autocapture every tap, click, swipe, field change and pageview in your web or mobile app without writing a single line of code, or filing a single ticket. Heap’s capture everything philosophy means that you will always have a complete and retroactive data set.
+
 * Dynamic Funnels
-Identify drop off in your checkout funnel. Get as granular as form change to form change to ensure your flow is seamless. Slice your funnel by device, customer cohort, APR offered, attribution channel and more so you can improve spend and encourage the right behaviors.
+    
+    Identify drop off in your checkout funnel. Get as granular as form change to form change to ensure your flow is seamless. Slice your funnel by device, customer cohort, APR offered, attribution channel and more so you can improve spend and encourage the right behaviors.
+
 * Advanced Attribution
-Heap captures every touch to help companies understand which channels drive good (prequaled traffic), conversions, and ultimately customers who will come back to open additional applications.
+
+    Heap captures every touch to help companies understand which channels drive good (prequaled traffic), conversions, and ultimately customers who will come back to open additional applications.
+
 * Heap SQL
-Our retroactive, managed ETL process means that your data teams have all they have all the data in a clean, easy to use schema. That means your best minds are discovering new insights, not building pipelines and munging data.
+    Our retroactive, managed ETL process means that your data teams have all they have all the data in a clean, easy to use schema. That means your best minds are discovering new insights, not building pipelines and munging data.
 
 
 * Acquire the Right Users
-Capture every touchpoint across the customer journey with Heap. Understand what marketing campaigns convert best, what drives users through your free trial and onboarding funnel, and what leads to long-term retention.
+    
+    Capture every touchpoint across the customer journey with Heap. Understand what marketing campaigns convert best, what drives users through your free trial and onboarding funnel, and what leads to long-term retention.
+
 * Build the Right Features 
-Pinpoint problems from discovery, to engagement, to adoption. Understand how users navigate your site and your product so you can stream line your roadmap and power your business forward.
+    
+    Pinpoint problems from discovery, to engagement, to adoption. Understand how users navigate your site and your product so you can stream line your roadmap and power your business forward.
+
 * Create Long Term Customers
-Determine the actions that great customers take and focus your marketing, product, and account management strategies around driving good behavior.
+    Determine the actions that great customers take and focus your marketing, product, and account management strategies around driving good behavior.
 
 * Codeless Tracking
   Autocapture every tap, click, swipe, field change and pageview in your web or mobile app without writing a single line of code, or filing a single ticket. Heap’s capture everything philosophy means that you will always have a complete and retroactive data set.
+
 * Customer Life Cycle
-  From acquisition, to adoption, to retention we have the data and the tools you need to improve every part of the customer’s journey. Ensure your customers discover and engage with everything you have to offer, and remove friction points through out their experience.
+  
+    From acquisition, to adoption, to retention we have the data and the tools you need to improve every part of the customer’s journey. Ensure your customers discover and engage with everything you have to offer, and remove friction points through out their experience.
+
 * Dynamic Cohorting
-Understand how different cohorts of users experience your product. Create segments of users by filtering for their real time behavior and historical actions. Combine user activity with user attributes like vertical, contract value, first touch attribution, and more to create complex personas in your analysis.
+      
+      Understand how different cohorts of users experience your product. Create segments of users by filtering for their real time behavior and historical actions. Combine user activity with user attributes like vertical, contract value, first touch attribution, and more to create complex personas in your analysis.
+
 * Heap SQL
+  
   Our retroactive, managed ETL process means that your data teams have all they have all the data in a clean, easy to use schema. That means your best minds are discovering new insights, not building pipelines and munging data.
 -----
 
@@ -260,6 +294,11 @@ Virtual Properties: Combine different property values and renamed properties to 
 ## Improve Operational Efficiency
 Ensure your company is operating off of shared context:
 
-### Flexible: Easily modify, merge, or create definitions as your KPIs change and your business evolves
-### Controlled: Collaboration is easy – any update applies retroactively, across the entire platform so you can operate with a trusted, unified set of definitions. Spend time talking about decisions, not who has the correct dataset.
-### Organized: Our living event dictionary keeps your Virtual Events, cohorts, and properties organized and complete with business context
+### Flexible: 
+Easily modify, merge, or create definitions as your KPIs change and your business evolves
+
+### Controlled: 
+Collaboration is easy – any update applies retroactively, across the entire platform so you can operate with a trusted, unified set of definitions. Spend time talking about decisions, not who has the correct dataset.
+
+### Organized: 
+Our living event dictionary keeps your Virtual Events, cohorts, and properties organized and complete with business context
