@@ -14,7 +14,16 @@ When I view a funnel of people who view our app homepage and click “send email
 
 
 3. 
+I was doing some analysis recently on our sign up conversion (see attached image) but I’m getting push back from my boss that these numbers must be wrong. According to this graph, I’m seeing that we only had 2 users come in from AdRoll during this time period but I’m being told that AdRoll is saying there were at least 10x that many users during this time period. We’re in the process of re-evaluating our retargeting spend in advance of our board meeting and I’d really like to know what’s going on and make sure other people can trust Heap. Is there something that I might not be thinking about?
+
 4.
+
+I’m trying to follow your documentation for adding a Snapshot via JavaScript, however I’m not a developer and I really don’t understand this documentation at all! I’m trying to add a Snapshot that picks up the sale percentage as a property when someone clicks on a product on this page: https://naturebox.com/
+
+Could you help me out by writing this custom JS for me and explaining to me how I can do this myself in the future? I’d really appreciate it!
+
+
+
 [Snapshots: Track Rich Data Without Writing Code](https://heapanalytics.com/blog/company/snapshots-track-rich-data-without-writing-code)
 
 [Snapshot](https://docs.heapanalytics.com/docs/snapshots)
