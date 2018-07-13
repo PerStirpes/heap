@@ -3,6 +3,9 @@
 Optimize your entire customer journey from Attribution to Exploration to Conversion. No code required.
 Visualize Trends That Matter
 
+### Build a better product, faster
+Drive conversions, improve product flows, increase retention by making decisions with all of the data. Codeless Analytics. It’s analytics that works.
+
 ### Imagine Retroactive Questions
 Ask questions as quickly as you can imagine them. 
 Iterate quickly as you dig deep into customer behavior.
@@ -202,5 +205,22 @@ Autocapture every tap, click, swipe, field change and pageview in your web or mo
 Identify drop off in your checkout funnel. Get as granular as form change to form change to ensure your flow is seamless. Slice your funnel by device, customer cohort, APR offered, attribution channel and more so you can improve spend and encourage the right behaviors.
 * Advanced Attribution
 Heap captures every touch to help companies understand which channels drive good (prequaled traffic), conversions, and ultimately customers who will come back to open additional applications.
+* Heap SQL
+Our retroactive, managed ETL process means that your data teams have all they have all the data in a clean, easy to use schema. That means your best minds are discovering new insights, not building pipelines and munging data.
+
+
+* Acquire the Right Users
+Capture every touchpoint across the customer journey with Heap. Understand what marketing campaigns convert best, what drives users through your free trial and onboarding funnel, and what leads to long-term retention.
+* Build the Right Features 
+Pinpoint problems from discovery, to engagement, to adoption. Understand how users navigate your site and your product so you can stream line your roadmap and power your business forward.
+* Create Long Term Customers
+Determine the actions that great customers take and focus your marketing, product, and account management strategies around driving good behavior.
+
+* Codeless Tracking
+Autocapture every tap, click, swipe, field change and pageview in your web or mobile app without writing a single line of code, or filing a single ticket. Heap’s capture everything philosophy means that you will always have a complete and retroactive data set.
+* Customer Life Cycle
+From acquisition, to adoption, to retention we have the data and the tools you need to improve every part of the customer’s journey. Ensure your customers discover and engage with everything you have to offer, and remove friction points through out their experience.
+* Dynamic Cohorting
+Understand how different cohorts of users experience your product. Create segments of users by filtering for their real time behavior and historical actions. Combine user activity with user attributes like vertical, contract value, first touch attribution, and more to create complex personas in your analysis.
 * Heap SQL
 Our retroactive, managed ETL process means that your data teams have all they have all the data in a clean, easy to use schema. That means your best minds are discovering new insights, not building pipelines and munging data.
