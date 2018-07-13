@@ -9,19 +9,19 @@ We need to set this up urgently, so your detailed explanation would be really ap
 
 
 
-## Increase Product Engagement & Retention with Dynamic Cohorting
+### Increase Product Engagement & Retention with Dynamic Cohorting
 Create segments of users by filtering for real time behavior and historical actions. Combine user activity with user attributes like vertical, contract value, first touch attribution, and more to create complex personas in your analysis.
 
 Track product engagement and feature adoption over time to determine which features deprioritize
 Optimize for LTV, not just acquisition
 Measure retention across user segments
 
-
-
+[Adwords: Manual and Auto Tagging Best Practices](https://docs.heapanalytics.com/docs/manual-and-autotagging-for-adwords)
+[How can I differentiate between organic and paid searches?](https://docs.heapanalytics.com/docs/understand-attribution#section-how-can-i-differentiate-between-organic-and-paid-searches-)
 # 2. 
 > When I view a funnel of people who view our app homepage and click “send email”, I see that roughly 1,500 users in the past month clicked the send email button. However, when I go to the Events tab and view the latter event by itself, it tells me there has been over 2,000 occurrences in the past week. Given that it's impossible to click the send email button without viewing it on the console homepage, could you please explain to me why the funnel over the past month shows that only 1500 people have clicked button over the past month, but the event tab shows that there's been 2000+ occurrences of the event over the past week?
 
-## Increase Conversion Rate
+### Increase Conversion Rate
 Funnels lets you see every action before a conversion: identify drop-off, decrease friction, and improve your site's conversion rate.
 
 Compare funnels across different user segments, device types, or attribution channels
@@ -31,15 +31,19 @@ Measure the effectiveness of your A/B tests – automatically capture experiment
 # 3. 
 > I was doing some analysis recently on our sign up conversion (see attached image) but I’m getting push back from my boss that these numbers must be wrong. According to this graph, I’m seeing that we only had 2 users come in from AdRoll during this time period but I’m being told that AdRoll is saying there were at least 10x that many users during this time period. We’re in the process of re-evaluating our retargeting spend in advance of our board meeting and I’d really like to know what’s going on and make sure other people can trust Heap. Is there something that I might not be thinking about?
 
-## Complete & Retroactive Dataset
+### Complete & Retroactive Dataset
 Autocapture ensures your underlying dataset is complete. Every piece of user interaction is retroactive.
 
-## Make Better Decisions with a Complete and Retroactive Dataset
+### Complete User History
+Don't miss out on unknown unknowns. Capture every click, tap, swipe, form change, and more without any code.
+
+### Make Better Decisions with a Complete and Retroactive Dataset
 Autocapture ensures that your underlying dataset is always clean, standardized, and immutable. Every piece of user interaction is retroactive.
 
 Retroactively get data on any interaction and never worry about lost data
 Clean underlying schema ensures high quality data and minimal maintenance required
-## Trust Your Data
+
+### Trust Your Data
 How Virtual Events are defined automatically propagates across your entire system. Always have access to what an event means, who defined it, and when it was last updated. Never dig through your site’s HTML or reference an outdated tracking plan again.
 
 # 4.
@@ -48,7 +52,7 @@ How Virtual Events are defined automatically propagates across your entire syste
 Could you help me out by writing this custom JS for me and explaining to me how I can do this myself in the future? I’d really appreciate it!
 
 
-## Capture On-Page Data with Snapshots
+### Capture On-Page Data with Snapshots
 Snapshots allow you to codelessly capture relevant data from a page and attach them to events.
 
 Want to capture a product’s price or quantity purchased without any code? Use our point and click editor to grab text from the page and attach it to events as a property.
@@ -71,7 +75,7 @@ a. First Touch: First event recorded
 b. Account Creation: First time a customer completes their account 
 c. First Order: First time a customer completes their order 
 
-> For all of these, I imagine we will want to pull the UTM from the session where the event occurred. Is that the correct approach? 
+> For all of these, I imagine we will want to pull the from the session where the event occurred. Is that the correct approach? 
 
 > Where I'm running into trouble is in identifying where in our SQL database I should actually query the data. There aren't many fields available in the 'all_events' Heap table and I don’t get the difference between the all_events tables and the individual event table in Heap SQL. Where should I find this data?
 
@@ -80,9 +84,11 @@ c. First Order: First time a customer completes their order
 
 
 
-## Advanced Attribution
+### Advanced Attribution
 Find the channels with the highest return. Rather than focusing on first or last touch, Heap captures every touch to help companies understand which channels drive conversions, higher order values, and repeat customers.
 
-Behavioral Attribution: Tie in touchpoints like opening email, reading blog posts, or watching videos
+##### Behavioral Attribution: 
+Tie in touchpoints like opening email, reading blog posts, or watching videos
 Change behaviors, channels, and conversion events on the fly – without developers
 
+[Understand Attribution](https://docs.heapanalytics.com/docs/understand-attribution)
