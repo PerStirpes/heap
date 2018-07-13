@@ -162,3 +162,25 @@ Don’t worry – we will not drop or throttle your data! Once you exceed your p
 
 **How can I get more than 5,000 free sessions per month?**
 You can get 50,000 sessions per month for free! Just add the Heap badge to your website.
+
+
+**Why eCommerce Companies Choose Heap**
+* Advanced Attribution
+Find the channels with the highest return. Rather than focusing on first or last touch, Heap captures every touch to help companies understand which channels drive conversions, higher order values, and repeat customers.
+
+* Conversion Rate Optimization
+Identify dropoff, decrease friction, and improve your site's conversion rate. Heap automatically captures experimentation variation data, device type, ad campaigns, and more so you can determine the best ways to optimize product changes and ad spend.
+
+* Create Brand Loyalty 
+Optimize for LTV, not just acquisition. Determine the actions that great customers take and focus your marketing and product strategies around driving good behavior.
+
+* Codeless Tagging
+Autocapture every tap, click, swipe, field change and pageview in your web or mobile app without writing a single line of code, or filing a single ticket. Heap’s capture everything philosophy means that you will always have a complete and retroactive data set.
+
+* Dynamic Funnels
+Identify drop off in your checkout funnel. Get as granular as form change to form change to ensure your flow is seamless. Slice your funnel by device, customer cohort, and attribution channel so you can improve spend and encourage the right behaviors.
+
+* Behavioral Cohorting
+Understand how different behaviors drive conversions and LTV. Create segments of users by filtering for their real time behavior and historical actions. Combine user activity with user attributes like lifetime value, first touch attribution, and more to create complex personas in your analysis.
+* Heap SQL
+Our retroactive, managed ETL process means that your data teams have all they have all the data in a clean, easy to use schema. That means your best minds are discovering new insights, not building pipelines and munging data.
