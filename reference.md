@@ -1,6 +1,7 @@
 # References
 
 [video behavioral attribution](https://heap.wistia.com/medias/gnf4oz3thy)
+[video Spotlight on Defining Events](https://heap.wistia.com/medias/5wd4zq7gj1)
 # 1. 
 
 > We are setting up Segments and need to specify only traffic which come from Google Adwords and not Google organic search. 
