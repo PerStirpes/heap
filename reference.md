@@ -1,6 +1,6 @@
 # References
 
-1. 
+# 1. 
 
 > We are setting up Segments and need to specify only traffic which come from Google Adwords and not Google organic search. 
 Can you please explain in detail, how we can just track users through a segment, who have come from any Google Adwords campaign?
@@ -18,7 +18,7 @@ Measure retention across user segments
 
 
 
-2. 
+# 2. 
 > When I view a funnel of people who view our app homepage and click “send email”, I see that roughly 1,500 users in the past month clicked the send email button. However, when I go to the Events tab and view the latter event by itself, it tells me there has been over 2,000 occurrences in the past week. Given that it's impossible to click the send email button without viewing it on the console homepage, could you please explain to me why the funnel over the past month shows that only 1500 people have clicked button over the past month, but the event tab shows that there's been 2000+ occurrences of the event over the past week?
 
 ## Increase Conversion Rate
@@ -28,15 +28,31 @@ Compare funnels across different user segments, device types, or attribution cha
 Measure the effectiveness of your A/B tests – automatically capture experimentation variation data, device type, ad campaigns, and more
 
 
-3. 
+# 3. 
 > I was doing some analysis recently on our sign up conversion (see attached image) but I’m getting push back from my boss that these numbers must be wrong. According to this graph, I’m seeing that we only had 2 users come in from AdRoll during this time period but I’m being told that AdRoll is saying there were at least 10x that many users during this time period. We’re in the process of re-evaluating our retargeting spend in advance of our board meeting and I’d really like to know what’s going on and make sure other people can trust Heap. Is there something that I might not be thinking about?
 
+## Complete & Retroactive Dataset
+Autocapture ensures your underlying dataset is complete. Every piece of user interaction is retroactive.
 
+## Make Better Decisions with a Complete and Retroactive Dataset
+Autocapture ensures that your underlying dataset is always clean, standardized, and immutable. Every piece of user interaction is retroactive.
 
-4.
+Retroactively get data on any interaction and never worry about lost data
+Clean underlying schema ensures high quality data and minimal maintenance required
+## Trust Your Data
+How Virtual Events are defined automatically propagates across your entire system. Always have access to what an event means, who defined it, and when it was last updated. Never dig through your site’s HTML or reference an outdated tracking plan again.
+
+# 4.
 
 > I’m trying to follow your documentation for adding a Snapshot via JavaScript, however I’m not a developer and I really don’t understand this documentation at all! I’m trying to add a Snapshot that picks up the sale percentage as a property when someone clicks on a product on this page: https://naturebox.com/
 Could you help me out by writing this custom JS for me and explaining to me how I can do this myself in the future? I’d really appreciate it!
+
+
+## Capture On-Page Data with Snapshots
+Snapshots allow you to codelessly capture relevant data from a page and attach them to events.
+
+Want to capture a product’s price or quantity purchased without any code? Use our point and click editor to grab text from the page and attach it to events as a property.
+Enrich your dataset by adding custom properties without committing to your codebase. Attach custom properties to any pageview as well as all events that occur on that pageview.
 
 
 
