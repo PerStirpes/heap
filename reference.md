@@ -5,8 +5,9 @@
 ### sql
 [Heap SQL: Common Queries](https://docs.heapanalytics.com/docs/heap-sql-common-queries)
 [Heap SQL: Attribution](https://docs.heapanalytics.com/docs/heap-sql-attribution)
-
 [Multi Touch Attribution](https://docs.heapanalytics.com/docs/heap-sql-attribution#section-multi-touch-attribution)
+[Heap SQL: Funnel Analysis](https://docs.heapanalytics.com/v1.0/docs/heap-sql-funnel-analysis)
+
 
 # 1. 
 
@@ -43,7 +44,7 @@ Measure the effectiveness of your A/B tests – automatically capture experiment
 > I was doing some analysis recently on our sign up conversion (see attached image) but I’m getting push back from my boss that these numbers must be wrong. According to this graph, I’m seeing that we only had 2 users come in from AdRoll during this time period but I’m being told that AdRoll is saying there were at least 10x that many users during this time period. We’re in the process of re-evaluating our retargeting spend in advance of our board meeting and I’d really like to know what’s going on and make sure other people can trust Heap. Is there something that I might not be thinking about?
 
 [Funnel](https://docs.heapanalytics.com/docs/funnel)
-
+[Improve Conversion](https://docs.heapanalytics.com/docs/improve-conversion#section-how-can-i-track-a-specific-channel-or-campaign-)
 ### Complete & Retroactive Dataset
 Autocapture ensures your underlying dataset is complete. Every piece of user interaction is retroactive.
 
@@ -111,6 +112,5 @@ Change behaviors, channels, and conversion events on the fly – without develop
 [Calculated Weighted Average in SQL](https://stackoverflow.com/questions/44122466/calculated-weighted-average-in-sql)
 
 [Organizing the marketing touch points](http://www.silota.com/docs/recipes/sql-multichannel-marketing-attribution-models-reporting.html)
-[]()
 []()
 []()
