@@ -1,7 +1,13 @@
 # References
 
-[video behavioral attribution](https://heap.wistia.com/medias/gnf4oz3thy)
-[video Spotlight on Defining Events](https://heap.wistia.com/medias/5wd4zq7gj1)
+* [video behavioral attribution](https://heap.wistia.com/medias/gnf4oz3thy)
+* [video Spotlight on Defining Events](https://heap.wistia.com/medias/5wd4zq7gj1)
+### sql
+[Heap SQL: Common Queries](https://docs.heapanalytics.com/docs/heap-sql-common-queries)
+[Heap SQL: Attribution](https://docs.heapanalytics.com/docs/heap-sql-attribution)
+
+[Multi Touch Attribution](https://docs.heapanalytics.com/docs/heap-sql-attribution#section-multi-touch-attribution)
+
 # 1. 
 
 > We are setting up Segments and need to specify only traffic which come from Google Adwords and not Google organic search. 
