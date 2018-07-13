@@ -81,7 +81,9 @@ Enrich your dataset by adding custom properties without committing to your codeb
 > I think all of the data is up and running for our account and we’ve finished our implementation! Now we just need to finalize the model for lead source attribution using this data. As a refresher, we want to attribute leads across 3 equally weighted touches across:
 
 a. First Touch: First event recorded 
+
 b. Account Creation: First time a customer completes their account 
+
 c. First Order: First time a customer completes their order 
 
 > For all of these, I imagine we will want to pull the from the session where the event occurred. Is that the correct approach? 
@@ -101,3 +103,10 @@ Tie in touchpoints like opening email, reading blog posts, or watching videos
 Change behaviors, channels, and conversion events on the fly – without developers
 
 [Understand Attribution](https://docs.heapanalytics.com/docs/understand-attribution)
+
+[Calculated Weighted Average in SQL](https://stackoverflow.com/questions/44122466/calculated-weighted-average-in-sql)
+
+[Organizing the marketing touch points](http://www.silota.com/docs/recipes/sql-multichannel-marketing-attribution-models-reporting.html)
+[]()
+[]()
+[]()
