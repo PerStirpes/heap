@@ -189,5 +189,18 @@ Our retroactive, managed ETL process means that your data teams have all they ha
 
 
 Complete DatasetHeap empowers companies to have all the data at their fingertips. With strict release cycles, it’s hard to ensure a tracking plan is all-inclusive. Heap’s autocapture means that any questions that might be asked has an answer backed in data.
-Conversion Rate OptimizationIdentify dropoff, decrease friction, and improve your site's conversion rate. Heap automatically captures experimentation variation data, device type, ad campaigns, and more so you can determine the best ways to optimize product changes and adspend.
-Actionable MetricsDetermine the actions that great customers take and focus your marketing and product strategies around driving the right behavior.
+
+* Conversion Rate Optimization 
+Identify dropoff, decrease friction, and improve your site's conversion rate. Heap automatically captures experimentation variation data, device type, ad campaigns, and more so you can determine the best ways to optimize product changes and adspend.
+* Actionable Metrics 
+Determine the actions that great customers take and focus your marketing and product strategies around driving the right behavior.
+
+
+* Codeless Tracking 
+Autocapture every tap, click, swipe, field change and pageview in your web or mobile app without writing a single line of code, or filing a single ticket. Heap’s capture everything philosophy means that you will always have a complete and retroactive data set.
+* Dynamic Funnels
+Identify drop off in your checkout funnel. Get as granular as form change to form change to ensure your flow is seamless. Slice your funnel by device, customer cohort, APR offered, attribution channel and more so you can improve spend and encourage the right behaviors.
+* Advanced Attribution
+Heap captures every touch to help companies understand which channels drive good (prequaled traffic), conversions, and ultimately customers who will come back to open additional applications.
+* Heap SQL
+Our retroactive, managed ETL process means that your data teams have all they have all the data in a clean, easy to use schema. That means your best minds are discovering new insights, not building pipelines and munging data.
