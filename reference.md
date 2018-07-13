@@ -8,6 +8,9 @@
 [Multi Touch Attribution](https://docs.heapanalytics.com/docs/heap-sql-attribution#section-multi-touch-attribution)
 [Heap SQL: Funnel Analysis](https://docs.heapanalytics.com/v1.0/docs/heap-sql-funnel-analysis)
 
+### refer back to 
+[Answer the 
+"impossible questions"](https://heapanalytics.com/features/sources)
 
 # 1. 
 
@@ -16,8 +19,14 @@ Can you please explain in detail, how we can just track users through a segment,
 We need to set this up urgently, so your detailed explanation would be really appreciated.
 
 
+# Powerful Segment Analysis (USE THIS)
+Heap provides a flexible yet easy-to-use interface for defining segments. Define "High-value Customers" as users who've made at least 5 purchases in the past week. Or define "Active Users" as users who've logged in at least 2 times and uploaded a profile image. You can limit reports to a user segment and better understand how certain segments differ from others users.
+
 ### ENRICHMENT: Segmentation
 Learn how different user groups behave using your CRM data. Optimize education, marketing, and the product experience based on different user attributes and how they influence conversion, retention, and engagement across your platform.
+
+### Advanced Segmentation
+Heap's Graph view lets you understand how usage patterns vary across different user segments. Figure out how many messages users send in each session, which countries drive the most in-app purchases, or which source of traffic generates the most-engaged users over time.
 
 ### Increase Product Engagement & Retention with Dynamic Cohorting
 Create segments of users by filtering for real time behavior and historical actions. Combine user activity with user attributes like vertical, contract value, first touch attribution, and more to create complex personas in your analysis.
