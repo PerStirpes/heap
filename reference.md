@@ -6,13 +6,32 @@
 Can you please explain in detail, how we can just track users through a segment, who have come from any Google Adwords campaign?
 We need to set this up urgently, so your detailed explanation would be really appreciated.
 
+
+
+
+## Increase Product Engagement & Retention with Dynamic Cohorting
+Create segments of users by filtering for real time behavior and historical actions. Combine user activity with user attributes like vertical, contract value, first touch attribution, and more to create complex personas in your analysis.
+
+Track product engagement and feature adoption over time to determine which features deprioritize
+Optimize for LTV, not just acquisition
+Measure retention across user segments
+
+
+
 2. 
 > When I view a funnel of people who view our app homepage and click “send email”, I see that roughly 1,500 users in the past month clicked the send email button. However, when I go to the Events tab and view the latter event by itself, it tells me there has been over 2,000 occurrences in the past week. Given that it's impossible to click the send email button without viewing it on the console homepage, could you please explain to me why the funnel over the past month shows that only 1500 people have clicked button over the past month, but the event tab shows that there's been 2000+ occurrences of the event over the past week?
 
+## Increase Conversion Rate
+Funnels lets you see every action before a conversion: identify drop-off, decrease friction, and improve your site's conversion rate.
+
+Compare funnels across different user segments, device types, or attribution channels
+Measure the effectiveness of your A/B tests – automatically capture experimentation variation data, device type, ad campaigns, and more
 
 
 3. 
 > I was doing some analysis recently on our sign up conversion (see attached image) but I’m getting push back from my boss that these numbers must be wrong. According to this graph, I’m seeing that we only had 2 users come in from AdRoll during this time period but I’m being told that AdRoll is saying there were at least 10x that many users during this time period. We’re in the process of re-evaluating our retargeting spend in advance of our board meeting and I’d really like to know what’s going on and make sure other people can trust Heap. Is there something that I might not be thinking about?
+
+
 
 4.
 
@@ -28,7 +47,7 @@ Could you help me out by writing this custom JS for me and explaining to me how 
 [Naturebox customer stories](https://heapanalytics.com/customer-stories/naturebox)
 [Codeless Analytics From Atttribution to Conversions](http://marketing.heapanalytics.com/ecommerce/shopify)
 
-5. 
+# 5. 
 
 > I think all of the data is up and running for our account and we’ve finished our implementation! Now we just need to finalize the model for lead source attribution using this data. As a refresher, we want to attribute leads across 3 equally weighted touches across:
 
@@ -41,4 +60,13 @@ c. First Order: First time a customer completes their order
 > Where I'm running into trouble is in identifying where in our SQL database I should actually query the data. There aren't many fields available in the 'all_events' Heap table and I don’t get the difference between the all_events tables and the individual event table in Heap SQL. Where should I find this data?
 
 > Assuming I want to keep our attribution model simple, could you help me write a SQL query that equally weights attribution by UTM source for these events or at least point me in the right direction of what I’d need to do to start building this out?
+
+
+
+
+## Advanced Attribution
+Find the channels with the highest return. Rather than focusing on first or last touch, Heap captures every touch to help companies understand which channels drive conversions, higher order values, and repeat customers.
+
+Behavioral Attribution: Tie in touchpoints like opening email, reading blog posts, or watching videos
+Change behaviors, channels, and conversion events on the fly – without developers
 
