@@ -45,6 +45,21 @@ Measure the effectiveness of your A/B tests – automatically capture experiment
 
 [Funnel](https://docs.heapanalytics.com/docs/funnel)
 [Improve Conversion](https://docs.heapanalytics.com/docs/improve-conversion#section-how-can-i-track-a-specific-channel-or-campaign-)
+
+## Make it Easier for Customers to Buy
+See every action before a conversion. Expose friction in your user flows and measure the effectiveness of your A/B tests.
+
+### Retroactive Funnels
+Dynamically change your funnel events. Discover which page or even which form field is causing users to drop off, and compare how cohorts convert.
+
+
+### Auto-Capture A/B Testing Data
+Understand how A/B tests influence your customers’ entire experience with Heap’s one click integration. Codelessly enrich your user behavior data with data from your A/B testing suite (Optimizely, VWO, Monetate, etc.)
+
+### Behavioral Segmentation
+Does reading reviews, blogposts, or white papers correlate with higher conversion rates? Unlike Google and Adobe, use behavior in your segments.
+
+
 ### Complete & Retroactive Dataset
 Autocapture ensures your underlying dataset is complete. Every piece of user interaction is retroactive.
 
