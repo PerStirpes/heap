@@ -1,4 +1,4 @@
-
+## Heap automates the annoying parts of user analytics. No more manual anything. Just insights.
 ### Analytics Shouldn’t Slow You Down
 Optimize your entire customer journey from Attribution to Exploration to Conversion. No code required.
 Visualize Trends That Matter
