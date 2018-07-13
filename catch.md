@@ -221,7 +221,6 @@ Determine the actions that great customers take and focus your marketing, produc
 * Customer Life Cycle
   From acquisition, to adoption, to retention we have the data and the tools you need to improve every part of the customer’s journey. Ensure your customers discover and engage with everything you have to offer, and remove friction points through out their experience.
 * Dynamic Cohorting
-
 Understand how different cohorts of users experience your product. Create segments of users by filtering for their real time behavior and historical actions. Combine user activity with user attributes like vertical, contract value, first touch attribution, and more to create complex personas in your analysis.
 * Heap SQL
   Our retroactive, managed ETL process means that your data teams have all they have all the data in a clean, easy to use schema. That means your best minds are discovering new insights, not building pipelines and munging data.
