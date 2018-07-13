@@ -16,3 +16,9 @@ Just add events by tapping around your website or iOS app.
 Meet Your Users
 See each one of your users, along with every action they've taken. 
 Segment users behaviorally, or attach your own metadata to them.
+
+
+
+Your Retroactive Analytics Warehouse
+Direct SQL access to your retroactive Heap data. 
+Automatically managed for you in Redshift. No ETL required.
