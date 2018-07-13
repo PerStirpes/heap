@@ -111,3 +111,55 @@ Direct SQL access to your retroactive Heap data. No ETL required.
 # RETENTION
 Someone just signed up in your app. But will they come back?
 
+------
+
+# Add-on Packages
+Choose a tier above, and add on packages tailor made for your organization.
+
+## Attribution
+Attribution models typically only account for referring sources, they don't give adequate credit to things like content, email marketing, and other engagement efforts. Heap allows all interactions to be a part of your attribution model.
+
+1. Behavioral Touchpoints
+
+2. Advanced Models
+
+3. Email Automation Data
+
+## Enrichment
+Automatically enrich users with a sync with your CRM. Make sure your user's attributes always reflect your business goals.
+
+
+CRM Data
+
+Enrichment Data
+
+## Warehouses
+The industry's only retroactive warehouse. Save your data team's time with a fully managed ETL process that syncs all your user data to your data warehouse.
+
+
+Managed ETL
+
+Retroactive Data
+
+Clean Schema
+## Every Package includes what Heap does Best
+* Autocapture 
+No more outdated tracking plans, tracking code, or waiting for data to trickle in. Heap auto-captures every user interaction and lets you define on the fly, changing tedious and fragile systems into agile insights.
+
+* Virtual Events
+Virtual Events allow you to retroactively name and manage user interactions without altering any code. Flexibly merge, delete, and rename event without altering the underlying data.
+
+* Real-time Insights
+Legacy analytics systems relied on outdated database technology that required massive batched updates that could take days to update. Heaps data updates in real time, cutting the feedback loop to nothing.
+
+* Behavioral AnalyticsUnderstand your users. Iterate quickly as you dig deep into customer behavior – analyze any event, segment, or property.
+
+#### FAQ
+**What is a session?**
+A session is a period of activity from a single user in your app or website. It can include many pageviews or events. For web, a session ends after 30 minutes of inactivity from the user. For iOS, a session ends after your app has entered the background.
+
+What happens if I exceed the limit for my plan?
+Don’t worry – we will not drop or throttle your data! Once you exceed your plan’s monthly limit, you’ll receive an email asking you to upgrade to the appropriate tier. You’ll need to do this before you can view your data again.
+
+How can I get more than 5,000 free sessions per month?
+You can get 50,000 sessions per month for free! Just add the Heap badge to your website.
