@@ -12,6 +12,8 @@
 [Answer the 
 "impossible questions"](https://heapanalytics.com/features/sources)
 
+
+
 # 1. 
 
 > We are setting up Segments and need to specify only traffic which come from Google Adwords and not Google organic search. 
@@ -38,10 +40,16 @@ Measure retention across user segments
 [Adwords: Manual and Auto Tagging Best Practices](https://docs.heapanalytics.com/docs/manual-and-autotagging-for-adwords)
 [How can I differentiate between organic and paid searches?](https://docs.heapanalytics.com/docs/understand-attribution#section-how-can-i-differentiate-between-organic-and-paid-searches-)
 
+> Drilldown Into Your Conversions
+Split a funnel across different user **segments**. Answer questions of the form "How do signup conversions change based on the number of case studies a user downloads?", or "How often are new users upgrading to paid plans compared to new users last week?" Funnels can also be segmented by user-level properties such as install date, location, referrer, and UTM parameters.
+
 # 2. 
 > When I view a funnel of people who view our app homepage and click “send email”, I see that roughly 1,500 users in the past month clicked the send email button. However, when I go to the Events tab and view the latter event by itself, it tells me there has been over 2,000 occurrences in the past week. Given that it's impossible to click the send email button without viewing it on the console homepage, could you please explain to me why the funnel over the past month shows that only 1500 people have clicked button over the past month, but the event tab shows that there's been 2000+ occurrences of the event over the past week?
 
 [Funnel](https://docs.heapanalytics.com/docs/funnel)
+
+### Highly-Targeted Funnel
+Setting up funnels is easy, and you can filter a funnel to an exact slice of your userbase. Understand the nature of your conversion rate for your users in China, for anyone who has viewed your Demo video, or for users who signed up and discovered you via Techcrunch.
 
 ### Increase Conversion Rate
 Funnels lets you see every action before a conversion: identify drop-off, decrease friction, and improve your site's conversion rate.
