@@ -16,7 +16,8 @@ Can you please explain in detail, how we can just track users through a segment,
 We need to set this up urgently, so your detailed explanation would be really appreciated.
 
 
-
+### ENRICHMENT: Segmentation
+Learn how different user groups behave using your CRM data. Optimize education, marketing, and the product experience based on different user attributes and how they influence conversion, retention, and engagement across your platform.
 
 ### Increase Product Engagement & Retention with Dynamic Cohorting
 Create segments of users by filtering for real time behavior and historical actions. Combine user activity with user attributes like vertical, contract value, first touch attribution, and more to create complex personas in your analysis.
