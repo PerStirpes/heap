@@ -1,7 +1,18 @@
 # References
 
 1. 
+
+We are setting up Segments and need to specify only traffic which come from Google Adwords and not Google organic search. 
+
+Can you please explain in detail, how we can just track users through a segment, who have come from any Google Adwords campaign?
+
+We need to set this up urgently, so your detailed explanation would be really appreciated.
+
 2. 
+When I view a funnel of people who view our app homepage and click “send email”, I see that roughly 1,500 users in the past month clicked the send email button. However, when I go to the Events tab and view the latter event by itself, it tells me there has been over 2,000 occurrences in the past week. Given that it's impossible to click the send email button without viewing it on the console homepage, could you please explain to me why the funnel over the past month shows that only 1500 people have clicked button over the past month, but the event tab shows that there's been 2000+ occurrences of the event over the past week?
+
+
+
 3. 
 4.
 [Snapshots: Track Rich Data Without Writing Code](https://heapanalytics.com/blog/company/snapshots-track-rich-data-without-writing-code)
