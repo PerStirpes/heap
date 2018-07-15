@@ -7,3 +7,7 @@
 
 [Capture and report JavaScript errors with window.onerror](https://blog.sentry.io/2016/01/04/client-javascript-reporting-window-onerror)
 [What the heck is "Script error"?](https://blog.sentry.io/2016/05/17/what-is-script-error)
+
+
+[Three Questions to Ask of Every Bug You Fix
+](https://github.com/PerStirpes/heap/edit/master/debugging_blogs.md)
