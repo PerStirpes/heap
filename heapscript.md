@@ -1,7 +1,11 @@
 ```js
-(window.heap = window.heap || []),
+window.heap = window.heap || [],
   (heap.load = function(e, t) {
     ;(window.heap.appid = e), (window.heap.config = t = t || {})
+    
+    /*
+By default, tracking beacons sent from https pages will be sent using https while beacons sent from http pages will be sent using http. Setting forceSSL to true will force http pages to also send all beacons using https.
+    */
     var r = t.forceSSL || 'https:' === document.location.protocol,
       a = document.createElement('script')
     ;(a.type = 'text/javascript'),
